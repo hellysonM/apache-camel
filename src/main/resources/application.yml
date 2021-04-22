@@ -1,0 +1,6 @@
+camel:
+  component:
+    servlet:
+      mapping:
+        enabled: true
+        context-path: /api/*
